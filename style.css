@@ -1,0 +1,25 @@
+.searchButton
+{
+    color: rgb(57, 185, 185);
+    border: 2px solid rgb(57, 185, 185);
+    border-radius: 10px;
+    background-color: white;
+    margin: 20px;
+}
+.add
+{
+    color: white;
+    background-color: turquoise;
+    border-radius: 100%;
+    border: 2px solid turquoise;
+    margin: 20px;
+}
+.createButton
+{
+    background-color: blue;
+    color: white;
+    border-color: black;
+    margin: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px black;
+}
