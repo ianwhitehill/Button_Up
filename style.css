@@ -1,13 +1,18 @@
 .searchButton
 {
+    width: 250px;
     color: rgb(57, 185, 185);
     border: 2px solid rgb(57, 185, 185);
-    border-radius: 10px;
+    border-radius: 45px;
     background-color: white;
+    padding: 10px;
     margin: 20px;
+    font-size: 200%;
 }
 .add
 {
+    width: 45px;
+    height: 45px;
     color: white;
     background-color: turquoise;
     border-radius: 100%;
